@@ -1,8 +1,0 @@
-META-INF/spring-configuration-metadata.json
-cn/jorden/flickr/listener/ApplicationReadyEventListener.class
-cn/jorden/flickr/properties/FlickrDatasourceProperties.class
-cn/jorden/flickr/generate/FlickrIdGenerate.class
-cn/jorden/flickr/autoconfigure/FlickrDataSourceAutoConfiguration.class
-cn/jorden/flickr/listener/CloseListener.class
-cn/jorden/flickr/properties/FlickrBusinessProperties.class
-cn/jorden/flickr/autoconfigure/FlickrAutoConfiguration.class
